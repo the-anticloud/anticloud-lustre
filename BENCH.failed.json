@@ -1,0 +1,10 @@
+{
+  "project": "LUSTRE",
+  "category": "SUPERCOMPUTER",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\SUPERCOMPUTER\\LUSTRE",
+  "status": "failed",
+  "reason": "zero metrics (files=320, loc=0)",
+  "files_count": 320,
+  "lines_of_code": 0,
+  "sha": ""
+}
